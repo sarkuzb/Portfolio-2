@@ -1,5 +1,5 @@
 ## 🚀 Customizable React Portfolio Template
-- A modern and sleek portfolio template built with React.js, HTML, and CSS — perfect for anyone looking to create a stunning personal or professional showcase! 🌟
+-- A modern and sleek portfolio template built with React.js, HTML, and CSS — perfect for anyone looking to create a stunning personal or professional showcase! 🌟
 
 ✨ Key Features:
 📱 Responsive Design: Looks great on all devices — from desktops 🖥️ to smartphones 📱.
