@@ -14,5 +14,3 @@ A modern and sleek portfolio template built with React.js, HTML, and CSS — per
 - Deploy your personalized portfolio in just a few minutes!
 
 Whether you're a developer, designer, or creative professional, this portfolio template helps you create a polished online presence with ease. 💼✨
-
-![2024-11-14 20-28-10 (1) (1)](https://github.com/user-attachments/assets/32c11043-8603-40de-8a4e-ff6d5cf1eb8c)
