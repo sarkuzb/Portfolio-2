@@ -15,7 +15,5 @@ A modern and sleek portfolio template built with React.js, HTML, and CSS — per
 
 Whether you're a developer, designer, or creative professional, this portfolio template helps you create a polished online presence with ease. 💼✨
 
-![2024-11-14+20-28-10+(1)](https://github.com/user-attachments/assets/4dfc1522-ad77-4443-940d-827f813a4ce3)
-
 ## Deployed
 - https://sarkuzb.github.io/Portfolio-2/
